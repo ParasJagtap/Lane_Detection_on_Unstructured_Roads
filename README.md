@@ -39,7 +39,6 @@ python src/predict_single.py
 – Shows original, binary mask, and red overlay panels.
 
 Project Structure
-text
 Lane_Detection_on_Unstructured_Roads/
 ├── .idea/                            # PyCharm config
 ├── src/
